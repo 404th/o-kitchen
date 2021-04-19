@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/o-kitchen/static/js/main.aa236533.chunk.js",
+    "main.js.map": "/o-kitchen/static/js/main.aa236533.chunk.js.map",
+    "runtime-main.js": "/o-kitchen/static/js/runtime-main.36317c9a.js",
+    "runtime-main.js.map": "/o-kitchen/static/js/runtime-main.36317c9a.js.map",
+    "static/css/2.679831fc.chunk.css": "/o-kitchen/static/css/2.679831fc.chunk.css",
+    "static/js/2.90bb6cc9.chunk.js": "/o-kitchen/static/js/2.90bb6cc9.chunk.js",
+    "static/js/2.90bb6cc9.chunk.js.map": "/o-kitchen/static/js/2.90bb6cc9.chunk.js.map",
+    "static/js/3.4ec73460.chunk.js": "/o-kitchen/static/js/3.4ec73460.chunk.js",
+    "static/js/3.4ec73460.chunk.js.map": "/o-kitchen/static/js/3.4ec73460.chunk.js.map",
+    "index.html": "/o-kitchen/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/o-kitchen/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.90bb6cc9.chunk.js.LICENSE.txt": "/o-kitchen/static/js/2.90bb6cc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36317c9a.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.90bb6cc9.chunk.js",
+    "static/js/main.aa236533.chunk.js"
+  ]
+}
